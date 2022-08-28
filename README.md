@@ -17,7 +17,7 @@
     - 순서: 김가은
     - 기간: 2022-08-22 ~ 2022-08-28
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12900 (프로그래머스 2단계 2 x n 타일링)
-
+    </br>
 
 2.
     - 순서: 김민식
