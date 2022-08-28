@@ -19,6 +19,12 @@
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12900 (프로그래머스 2단계 2 x n 타일링)
 
 
+2.
+    - 순서: 김민식
+    - 기간: 2022-08-29 ~ 2022-09-04
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/42587 (프로그래머스 2단계 프린터)
+
+
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. 
 - 각 문제 풀이가 포함된 파일명에 문제 번호를 포함한다. (Ex: WEEK5.js)
