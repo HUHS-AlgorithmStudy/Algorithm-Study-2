@@ -23,6 +23,12 @@
     - 순서: 김민식
     - 기간: 2022-08-29 ~ 2022-09-04
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/42587 (프로그래머스 2단계 프린터)
+    
+3.
+    - 순서: 신경준
+    - 기간: 2022-09-05 ~ 2022-09-11
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/62048 (프로그래머스 2단계 멀쩡한 사각형)
+    
 
 
 ### 기타 주의사항
