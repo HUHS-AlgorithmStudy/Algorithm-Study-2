@@ -1,20 +1,21 @@
 function solution(number, k) {
-  let max = 0;
-  let maxMax = "";
+  let answer = "";
+  let array = number.split("").map((item) => parseInt(item));
   let length = number.length - k;
+  let index = 0;
+  let cnt = 1;
 
   for (let i = 0; i < length; i++) {
-    for (let j = 0; j < number.length; j++) {
-      max = parseInt(number[j]);
-      if (parseint(number[j]) < parseint(number[j + 1])) {
-        max = parseint(number[j + 1]);
+    let max = 0;
+    for (let j = index; j < number.length - length + cnt; j++) {
+      if (max < array[j]) {
+        max = array[j];
+        index = j;
       }
     }
-    maxMan += max;
-    number.number.indexOf(max);
+    answer += max;
+    array[index] = 0;
+    cnt++;
   }
-
   return answer;
 }
-
-//number를 배열로 만들기는 해야될듯.
