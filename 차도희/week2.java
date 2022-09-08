@@ -1,7 +1,7 @@
 
 import java.util.LinkedList;
 import java.util.Arrays;
-public class n42587 {
+public class p42587 {
 
 	public static void main(String[] args) {
 		
