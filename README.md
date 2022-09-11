@@ -31,6 +31,11 @@
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/42883 (프로그래머스 2단계 큰 수 만들기)
     </br>
     
+4.
+    - 순서: 신민수
+    - 기간: 2022-09-12 ~ 2022-09-18
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/87390 (프로그래머스 2단계 n^2 배열 자르기)
+    </br>
 
 
 ### 기타 주의사항
