@@ -30,3 +30,4 @@ function solution(number, k) {
 
     return Math.max(...allCasesArr).toString();
 }
+
