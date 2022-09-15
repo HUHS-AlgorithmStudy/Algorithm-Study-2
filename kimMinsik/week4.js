@@ -1,3 +1,5 @@
+//최종풀이
+
 function solution(n, left, right) {
   let answer = [];
   for (let i = left; i <= right; i++) {
