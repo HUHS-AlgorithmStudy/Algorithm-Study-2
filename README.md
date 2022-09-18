@@ -37,6 +37,11 @@
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/87390 (프로그래머스 2단계 n^2 배열 자르기)
     </br>
 
+5.
+    - 순서: 이수빈
+    - 기간: 2022-09-19 ~ 2022-09-25
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12899 (프로그래머스 2단계 124 나라의 숫자)
+    </br>
 
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. 
