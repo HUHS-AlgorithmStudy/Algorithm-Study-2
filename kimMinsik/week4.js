@@ -1,3 +1,4 @@
+//최종풀이 week4.js
 function solution(n, left, right) {
   let answer = [];
   for (let i = left; i <= right; i++) {
