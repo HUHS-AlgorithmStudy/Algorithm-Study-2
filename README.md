@@ -43,6 +43,12 @@
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12899 (프로그래머스 2단계 124 나라의 숫자)
     </br>
 
+6.
+    - 순서: 이서진
+    - 기간: 2022-09-26 ~ 2022-10-02
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12978 (프로그래머스 2단계 배달)
+    </br>
+
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. 
 - 각 문제 풀이가 포함된 파일명에 문제 번호를 포함한다. (Ex: WEEK5.js)
